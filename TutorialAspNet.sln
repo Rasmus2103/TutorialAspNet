@@ -29,6 +29,10 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RazorWebPagesApplication", 
 		DefaultWebSiteLanguage = "Visual C#"
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCApplication", "MVCApplication\MVCApplication.csproj", "{C219A193-7823-4BBC-A69D-80DB483C5A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouxAcademyAPI", "RouxAcademyAPI\RouxAcademyAPI.csproj", "{FEF6737D-F8F2-4072-9238-60C16CA5BB83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +51,14 @@ Global
 		{BCB27EA5-984F-4008-8F58-3E0B0A2F9681}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCB27EA5-984F-4008-8F58-3E0B0A2F9681}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 		{BCB27EA5-984F-4008-8F58-3E0B0A2F9681}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{C219A193-7823-4BBC-A69D-80DB483C5A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C219A193-7823-4BBC-A69D-80DB483C5A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C219A193-7823-4BBC-A69D-80DB483C5A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C219A193-7823-4BBC-A69D-80DB483C5A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF6737D-F8F2-4072-9238-60C16CA5BB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF6737D-F8F2-4072-9238-60C16CA5BB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF6737D-F8F2-4072-9238-60C16CA5BB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF6737D-F8F2-4072-9238-60C16CA5BB83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
